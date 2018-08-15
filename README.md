@@ -1,7 +1,7 @@
 # INLI
 Indian Native Language Identification
 
-These codes are result of Shared task on Indian Native Language Identification.
+These codes are result of Shared task on Indian Native Language Identification. Codes are implemented using Keras with tensorflow as backend.
 
 Identifying native language i.e. first language of the person based on his/her writing in second language has inherent difficulty and depends on the succesfull identification of patterns in writing style which are influenced by the native language of writer. Succeeful native language identification has numerous applications like in forensic, personalised training and author profiling. INLI 2018 shared task focus on identifying the native language for users from their comments on various Facebook news posts. This can be treated as as a multiclass supervised classification task. Six Indian native languages need to be identified in this task i.e. Tamil, Hindi, Kannada, Malayalam, Bengali and Telugu.
 Next section discuss prior work followed by description of our proposed system.
